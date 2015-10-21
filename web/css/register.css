@@ -1,0 +1,32 @@
+
+body{
+    background : url(/assets/register_background2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.form-registro{
+    background-color: rgba(255,255,255,0.7);
+    border: 1px solid skyblue;
+}
+
+contact-form, h1{
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.btn-primary{
+    margin-bottom:3%;
+}
+
+#form-msg{
+    margin-top: 45%;
+    margin-left: -10%;
+}
+
+#msg{
+    text-align: center;
+    font-family: sans-serif;
+}

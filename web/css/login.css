@@ -1,0 +1,25 @@
+body{
+    background : url(/assets/login_background-1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.site-login{
+    background-color: rgba(255,255,255,0.7);
+     border: 1px solid skyblue;
+}
+
+.form-group{
+    position: relative;
+}
+
+#btnSocial{
+    margin-bottom: 15px;
+}
+
+#btnSocial img{
+    width: 180px;
+    height: 36px;
+}
